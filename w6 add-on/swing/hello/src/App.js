@@ -1,4 +1,6 @@
 import './App.css';
+import AboutMovie from './components/AboutMovie';
+import AddPosts from './components/AddPosts';
 import Example from './components/Example';
 
 function App() {
