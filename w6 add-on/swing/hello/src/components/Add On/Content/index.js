@@ -15,12 +15,13 @@ export default class Content extends React.Component {
                  <h3>{this.props.title}</h3>
                  <div>{this.props.content}</div>
                  <p><button onClick={() => {this.setState({counter: this.state.counter + 1})}}>LIKE ME: {this.state.counter}</button></p>
+                 <Dislike></Dislike>
                  
             </>     
         )
     }
 }
-export default class Content extends React.Component {
+class Dislike extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -31,9 +32,7 @@ export default class Content extends React.Component {
     render(){
         return (
             <>
-                 <h3>{this.props.title}</h3>
-                 <div>{this.props.content}</div>
-                 <p><button onClick={() => {this.setState({counter: this.state.counter + 1})}}>LIKE ME: {this.state.counter}</button></p>
+                 <p><button onClick={() => {this.setState({counter: this.state.counter + 1})}}>DISLIKE ME: {this.state.counter}</button></p>
                  
             </>     
         )
