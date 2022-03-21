@@ -7,4 +7,7 @@ Each directory has an index.js
 
 I used the the Tv show/series exercise and the menu application as well.
 
-I added additonal content 
+I added additonal content to each index. 
+
+Lijke 
+
