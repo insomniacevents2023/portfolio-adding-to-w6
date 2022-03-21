@@ -13,12 +13,27 @@ const seriesInfo = {
 
 function App() {
   var [displayComponent, setDisplayComponent] = useState(-1)
-  var components = [<AboutSeries data={seriesInfo}></AboutSeries>]
+  var components = [<AboutSeries data={seriesInfo}></AboutSeries>,<CreateContent data={seriesInfo}></CreateContent>]
+
   return (
+    (displayComponent !== -1 ?
     <div className="App">
-     <Example show="Entourage" character="Turtle"/>
-    </div>
+      {displayComponent !== -1 ? components[displayComponent] : undefined}
+      <p>Return to the Main Page: <button onClick={() => setDisplayComponent(-1)}>Return</button></p>
+      </div>
+    :
+    <div className="App">
+      <h1>What is your Favorite Series?</h1>
+      <p>Explore the Series:</p>
+      <p>
+      <button onClick={() => setDisplayComponent(0)}>About the series</button>
+      </p>
+      <p>
+      <button onClick={() => setDisplayComponent(1)}>More Content</button>
+      </p>
+      </div>
+    )
   );
-}
+} 
 
 export default App;
