@@ -1,5 +1,5 @@
 import React from 'react'
-import Content from '../Content'
+import Post from '../Content'
 
 var contentArray = [
     {title: 'Series Summary', content: "Led by Vince, an actor deemed the next big thing, four buddies migrate west from Queens, N.Y. Usually within his reach are his less successful half brother, Drama; Vince's best friend, Eric; and their irrepressible pal, Turtle. As the foursome adjusts to Tinseltown's fast pace and frantic deal-making, Vince's take-charge agent, Ari, exerts his influence -- often to Eric's annoyance.", index:1},
