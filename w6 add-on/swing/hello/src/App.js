@@ -12,6 +12,8 @@ const seriesInfo = {
 }
 
 function App() {
+  var [displayComponent, setDisplayComponent] = useState(-1)
+  var components = [<AboutSeries data={seriesInfo}></AboutSeries>]
   return (
     <div className="App">
      <Example show="Entourage" character="Turtle"/>
