@@ -1,9 +1,15 @@
 import './App.css';
-import AboutMovie from './components/AboutMovie';
+import AboutSeries from './components/AboutMovie';
 import CreateContent from './components/CreateContent';
 import React, { useState } from "react"
 
-const show
+const seriesInfo = {
+
+  "series":"Entourage",
+  "year": "2004",
+  "seasons":"Eight",
+  "character":"Turtle"
+}
 
 function App() {
   return (
