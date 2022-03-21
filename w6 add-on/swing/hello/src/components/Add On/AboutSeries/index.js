@@ -1,5 +1,6 @@
 import React from 'react'
 import entourage from '../../../img/entourage.jpeg';
+import turtle from '../../../img/turtle.jpeg';
 
 export default class AboutSeries extends React.Component {
     render() {
@@ -10,7 +11,7 @@ export default class AboutSeries extends React.Component {
              <img src={entourage} alt = "Entourage CREW" width="75%"></img><br></br>
              <p>{this.props.data.series} is an American comedy-drama television series that premiered in {this.props.data.year} on HBO with {this.props.data.seasons} seasons.</p><br></br>
             <p>My Favorite favorite character from Entourage is {this.props.data.character}.</p><br></br>
-            <img src="%PUBLIC_URL%/img/turtle.jpeg" alt = "Turtle" width="75%"></img><br></br>
+            <img src={turtle} alt = "Turtle" width="75%"></img><br></br>
         </>
         )
     }
