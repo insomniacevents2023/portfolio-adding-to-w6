@@ -6,7 +6,7 @@ var contentArray = [
     <br></br>,
     {title: "Cast and Crew", content: <img src='/img/dancing.gif' alt='Cast of New Girl Dancing' height='300px' />, index:2},
     <br></br>,
-    {title: "Celeberty Guest Appearances", content:"Over the course of the 8 seasons Entourage took on, many celeberties had guest apperances on the show. Those name include Mark Walburg (Entoruage was made after him), Sasha Grey, Bob Saget, Mike Tyson, and Jessica Simpson", index:3},
+    {title: "Celeberty Cameo Appearances", content:"Over the course of the 8 seasons, Entourage hired on celebrity cameo apperances on the show. Those name include Mark Walburg (the man behind the show), Kanye West, Sasha Grey, Bob Saget, Mike Tyson, and Jessica Simpson. Just to name a few", index:3},
     <br></br>,
     {title: "Rotten Tomatoes", content: <img src='/img/dancing.gif' alt='Rotten Tomatoes Review' height='300px' />, index:4},
     
