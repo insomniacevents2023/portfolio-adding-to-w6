@@ -24,12 +24,12 @@ function App() {
     :
     <div className="App">
       <h1>What is your Favorite Series?</h1>
-      <p>Explore the Series:</p>
+      <p>Explore the options below to find out!</p>
       <p>
-      <button onClick={() => setDisplayComponent(0)}>About the series</button>
+      <button onClick={() => setDisplayComponent(0)}>What series is it anyways? </button>
       </p>
       <p>
-      <button onClick={() => setDisplayComponent(1)}>More Content</button>
+      <button onClick={() => setDisplayComponent(1)}>Additonal Content</button>
       </p>
       </div>
     )
