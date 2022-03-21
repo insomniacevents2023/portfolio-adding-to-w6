@@ -9,5 +9,9 @@ I used the the Tv show/series exercise and the menu application as well.
 
 I added additonal content to each index. 
 
-Li
+images and information are scattered through out
+
+I also added a like and dislike button with a counter.
+
+Links to and from are also added to navigate across the pages seemlesly 
 
