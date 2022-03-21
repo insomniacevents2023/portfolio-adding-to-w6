@@ -1,2 +1,6 @@
 import React from 'react'
-import Post from '../Content'
+import Content from '../Content'
+
+var contentArray = [
+    {}
+]
