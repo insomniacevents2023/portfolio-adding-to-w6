@@ -9,6 +9,7 @@ const seriesInfo = {
   "year": "2004",
   "seasons":"Eight",
   "character":"Turtle"
+  
 }
 
 function App() {
