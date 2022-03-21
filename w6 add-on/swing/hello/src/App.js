@@ -1,6 +1,6 @@
 import './App.css';
-import AboutSeries from './components/AboutMovie';
-import CreateContent from './components/CreateContent';
+import AboutSeries from './components/Add On/AboutSeries';
+import CreateContent from './components/Add On/CreateContent';
 import React, { useState } from "react"
 
 const seriesInfo = {
