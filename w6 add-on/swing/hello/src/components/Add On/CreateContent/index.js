@@ -1,7 +1,7 @@
 import React from 'react'
 import Content from '../Content'
-import kanye from '../../../img/kanye.jpeg';
-import rottentom from '../../../img/rottentom.jpeg';
+import kanye from '../img/kanye.jpeg';
+import rottentom from '../img/rottentom.jpeg';
 
 
 var contentArray = [

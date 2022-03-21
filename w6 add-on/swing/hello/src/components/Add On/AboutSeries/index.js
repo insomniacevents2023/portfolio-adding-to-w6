@@ -1,6 +1,6 @@
 import React from 'react'
-import entourage from '../../../img/entourage.jpeg';
-import turtle from '../../../img/turtle.jpeg';
+import entourage from '../img/entourage.jpeg';
+import turtle from '../img/turtle.jpeg';
 
 export default class AboutSeries extends React.Component {
     render() {
