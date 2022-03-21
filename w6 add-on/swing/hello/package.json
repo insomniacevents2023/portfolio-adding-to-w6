@@ -2,6 +2,7 @@
   "name": "hello-insomniacevents2023",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://insomniacevents2023.github.io/portfolio-adding-to-w6",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
