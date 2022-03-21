@@ -26,7 +26,7 @@ function App() {
       <h1>What is your Favorite Series?</h1>
       <p>Explore the options below to find out!</p>
       <p>
-      <button onClick={() => setDisplayComponent(0)}>What series is it anyways? </button>
+      <button onClick={() => setDisplayComponent(0)}>What Series Is It Anyways? </button>
       </p>
       <p>
       <button onClick={() => setDisplayComponent(1)}>Additonal Content</button>
