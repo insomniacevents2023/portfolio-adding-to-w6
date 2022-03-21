@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-export default class Post extends React.Component {
+export default class Content extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
