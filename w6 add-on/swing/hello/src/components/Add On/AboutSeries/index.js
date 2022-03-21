@@ -9,6 +9,7 @@ export default class AboutSeries extends React.Component {
              <img src="/img.Entourage.jpeg" alt = "Entourge CREW" width="75%"></img><br></br>
              <p>{this.props.data.series} is an American comedy-drama television series that premiered in {this.props.data.year} on HBO with {this.props.data.seasons} seasons.</p><br></br>
             <p>My Favorite favorite character from Entourage is {this.props.data.character}</p><br></br>
+            <img src="/img.Entourage.jpeg" alt = "Entourge CREW" width="75%"></img><br></br>
         </>
         )
     }
