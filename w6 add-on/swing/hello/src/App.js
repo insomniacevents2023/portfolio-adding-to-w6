@@ -1,7 +1,9 @@
 import './App.css';
 import AboutMovie from './components/AboutMovie';
 import CreateContent from './components/CreateContent';
-import Example from './components/Example';
+import React, { useState } from "react"
+
+const show
 
 function App() {
   return (
