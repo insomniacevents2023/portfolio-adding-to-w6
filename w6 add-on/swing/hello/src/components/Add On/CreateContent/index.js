@@ -16,11 +16,11 @@ export default class CreateContent extends React.Component {
      
    render() {
        var element = contentArray.map(post =>
-           <Content
+           <post
                key={post.index}
                title={post.title}
                content={post.content}>
-           </Content>
+           </post>
        )       
        return (
             <>
