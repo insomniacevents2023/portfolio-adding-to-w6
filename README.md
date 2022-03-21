@@ -1,4 +1,10 @@
 # portfolio-adding-to-w6
 Adding to Week 6 exercise of my Favorite series using React 
 
-I added images to the content and created Buttons to like the content and 
+I created there sub directories inside of componenets.
+
+Each directory has an index.js
+
+I used the the Tv show/series exercise and the menu application as well.
+
+I added additonal content 
