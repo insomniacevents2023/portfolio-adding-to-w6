@@ -5,8 +5,8 @@ export default class Content extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            counter: 0,
-            counter2: 0
+            counter: 0
+            
         };
     }
     render(){
@@ -14,8 +14,8 @@ export default class Content extends React.Component {
             <>
                  <h3>{this.props.title}</h3>
                  <div>{this.props.content}</div>
-                 <p><button onClick={() => {this.setState({counter: this.state.counter + 1})}}>Likes: {this.state.counter}</button></p>
-                 <p><button onClick={() => {this.setState({counter2: this.state.counter2 + 1})}}>DisLikes: {this.state.counter}</button></p>
+                 <p><button onClick={() => {this.setState({counter: this.state.counter + 1})}}>LIKE ME: {this.state.counter}</button></p>
+                 
             </>     
         )
     }
