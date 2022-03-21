@@ -13,7 +13,7 @@ export default class Content extends React.Component {
             <>
                  <h3>{this.props.title}</h3>
                  <div>{this.props.content}</div>
-                 <p><button onClick={() => {this.setstate({counter: this.state.counter + 1})}}>Likes: {this.state.counter}</button></p>
+                 <p><button onClick={() => {this.setState({counter: this.state.counter + 1})}}>Likes: {this.state.counter}</button></p>
             </>     
         )
     }
