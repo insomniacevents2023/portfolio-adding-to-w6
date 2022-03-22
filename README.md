@@ -13,5 +13,7 @@ images and information are scattered through out
 
 I also added a like and dislike button with a counter.
 
-Links to and from are also added to navigate across the pages seemlesly 
+Links to and from are also added to navigate across the pages seemlesly
+
+"homepage": "https://insomniacevents2023.github.io/portfolio-adding-to-w6"
 
