@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-adding-to-w6/static/css/main.073c9b0a.css",
+    "main.js": "/portfolio-adding-to-w6/static/js/main.586acb66.js",
+    "static/js/787.509131ae.chunk.js": "/portfolio-adding-to-w6/static/js/787.509131ae.chunk.js",
+    "static/media/entourage.jpg": "/portfolio-adding-to-w6/static/media/entourage.bd5d831510237fd9a036.jpg",
+    "static/media/rottentom.jpeg": "/portfolio-adding-to-w6/static/media/rottentom.ed8ac512d929ac6a6a83.jpeg",
+    "static/media/kanye.jpeg": "/portfolio-adding-to-w6/static/media/kanye.97c4f42c5b207b3edb54.jpeg",
+    "static/media/turtle.jpeg": "/portfolio-adding-to-w6/static/media/turtle.4f3c86cb405ef9bf41b9.jpeg",
+    "index.html": "/portfolio-adding-to-w6/index.html",
+    "main.073c9b0a.css.map": "/portfolio-adding-to-w6/static/css/main.073c9b0a.css.map",
+    "main.586acb66.js.map": "/portfolio-adding-to-w6/static/js/main.586acb66.js.map",
+    "787.509131ae.chunk.js.map": "/portfolio-adding-to-w6/static/js/787.509131ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.586acb66.js"
+  ]
+}
